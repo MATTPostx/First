@@ -11,7 +11,7 @@ for x in cars:
 def my_name():
 print("hello")
 
-my_name()
+
 # print(array)
 # for array in cars:
 #     print(array)
